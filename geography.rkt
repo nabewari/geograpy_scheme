@@ -53,8 +53,9 @@
   (plot3d (list (points3d (map vector x y z)
                         #:sym 'dot
                         #:alpha 0.8)
-              (lines3d (map list->vector traj)
-                       #:color '(0 255 255)))
+;              (lines3d (map list->vector traj)
+;                       #:color '(0 255 255))
+              )
               #:altitude 25))
 
 (define bokka
