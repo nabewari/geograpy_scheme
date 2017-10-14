@@ -1,5 +1,4 @@
 # geograpy_scheme
-Lispでもできる
 nabewari関数実行で地形
 bokka関数実行で軌跡を速度ごとに色分けしてだす
 
